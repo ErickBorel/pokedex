@@ -1,0 +1,10 @@
+.title {
+    color: yellow;
+    text-shadow: 4px 4px 0px rgb(0, 56, 160);
+    margin-top: 15px;
+    text-align: center;
+    font-size: 60px;
+    font-family: 'Bangers', cursive;
+    -webkit-text-stroke-width: 3px;
+    -webkit-text-stroke-color: #000;
+}
