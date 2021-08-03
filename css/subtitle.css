@@ -1,4 +1,6 @@
 .subtitle {
+    color: rgb(0, 56, 160);
     font-size: 45px;
     margin-bottom: 10px;
+    text-shadow: 1px 1px 4px yellow;
 }
